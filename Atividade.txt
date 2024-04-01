@@ -1,0 +1,23 @@
+GIT:
+Um sistema de controle de versão distribuído, usado para acompanhar as alterações em arquivos e pastas ao longo do tempo. É popular no desenvolvimento de software, mas pode ser usado para qualquer tipo de projeto.
+
+Pull:
+Obter as alterações mais recentes de um repositório remoto e incorporá-las ao seu repositório local. Isso é útil para manter seu código sincronizado com o de outras pessoas.
+
+Push:
+Enviar as alterações do seu repositório local para um repositório remoto. Isso é útil para compartilhar suas alterações com outras pessoas ou para fazer backup do seu código.
+
+Commit:
+Salvar um conjunto de alterações nos arquivos do seu projeto. Um commit cria um novo ponto no histórico do seu projeto, permitindo que você reverta para versões anteriores se necessário.
+
+Branch:
+Uma ramificação do código do seu projeto. Permite trabalhar em diferentes versões do seu projeto ao mesmo tempo, sem se preocupar em afetar a versão principal.
+
+Fork:
+Criar uma cópia de um repositório remoto em sua conta. Isso é útil se você deseja contribuir para um projeto, mas não deseja modificar o repositório original.
+
+Clean:
+Remover arquivos não rastreados do seu diretório de trabalho. Isso pode ser útil para liberar espaço ou para evitar que arquivos indesejados sejam adicionados ao seu repositório.
+
+Clone:
+Criar uma cópia completa de um repositório remoto em seu computador. Isso é útil para começar a trabalhar em um projeto ou para ter uma cópia local do código para referência.
